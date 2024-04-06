@@ -4,3 +4,5 @@ tcardgen
 *.png
 *.ttf
 !example/*.png
+.direnv
+result
